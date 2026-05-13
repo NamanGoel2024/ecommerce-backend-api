@@ -120,3 +120,23 @@ Protected APIs
 # Author
 
 Naman Goel
+
+---
+
+# Project Screenshots
+
+## Swagger UI
+
+![Swagger UI](screenshots/swagger-ui.png)
+
+---
+
+## JWT Login API
+
+![Login API](screenshots/login-api.png)
+
+---
+
+## Orders API
+
+![Orders API](screenshots/orders-api.png)
